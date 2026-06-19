@@ -1,0 +1,6 @@
+build/
+build-cmake/
+*.obj
+*.pdb
+*.ilk
+*.exe
